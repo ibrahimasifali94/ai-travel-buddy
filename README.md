@@ -47,4 +47,5 @@ Travel planning can be overwhelming.
 
 ---
 
-⚡ **Live demo below** — recruiters, just type a destination and play!
+⚡ **Live demo below** — [here](https://huggingface.co/spaces/ibrahimali94/ai-travel-buddy?logs=container), just type a destination and play!
+
